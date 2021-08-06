@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Android_Project/BeatBox2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Android_Project/CeorrectorExam" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Android_Project/Corrector" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Android_Project/Crime" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Android_Project/Geo_Quiz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Android_Project/camera-samples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Crime" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RealmExample" vcs="Git" />
+  </component>
+</project>
